@@ -1,0 +1,25 @@
+# Virtual Environment
+yolo_work/
+venv/
+.env/
+
+# Model checkpoints
+checkpoints/
+models/
+*.pt
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
